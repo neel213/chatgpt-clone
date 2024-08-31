@@ -1,3 +1,5 @@
+This project is a complete ChatGPT clone, featuring both frontend and backend components. The frontend, built with modern web technologies, provides a user-friendly interface for interacting with an AI chatbot. The backend, developed using Node.js and Express, communicates with the OpenAI API to generate AI-driven responses based on user input. The project integrates securely with OpenAI’s API, utilizing environment variables for managing API keys, and supports full conversational capabilities. Designed for seamless integration, this clone delivers an interactive AI chatbot experience, suitable for various applications such as customer support, education, and entertainment.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
